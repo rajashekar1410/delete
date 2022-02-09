@@ -64,6 +64,6 @@ jobs:
         SC_CONTROLLER_URL: ${{ secrets.SC_CONTROLLER_URL }}
         SSC_UPLOAD_TOKEN: ${{ secrets.SSC_UPLOAD_TOKEN }}
         #SSC_UPLOAD_TOKEN: 516147e5-15ee-4f01-a97a-00ab0b0a589d
-        APPLICATION: "simplisticrabbitmq_sc"
-        VERSION: "2.0"
+        APPLICATION: "zero_edast_scan"
+        VERSION: "1.0"
         BUILD_OPTS: "-bt mvn"
